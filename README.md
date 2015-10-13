@@ -6,3 +6,5 @@ Setting up solr and then configuring to work with a drupal installation seems a 
 ###Note
 
 Where changes are required to a file, I have prompted to make them manually, and provided some copy and paste code and opened the file. It is a bit slower, but it means I keep track of what has happened and can modify if necessary (May well replace with patches if I end up doing the same thing again and again).
+
+Also there is a prompt for `apply patch and missing files? (hacky) [y/n] (todo: amend repo)` which was specifically there to solve a problem I had with a very specific usecase.
